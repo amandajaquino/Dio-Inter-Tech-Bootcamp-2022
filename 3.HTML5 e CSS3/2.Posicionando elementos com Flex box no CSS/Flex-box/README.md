@@ -1,0 +1,1 @@
+# Applying Flex-box - a CSS 3 web layout model - The flex layout allows responsive elements within a container to be automatically arranged depending upon screen size
